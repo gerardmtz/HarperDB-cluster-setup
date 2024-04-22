@@ -17,14 +17,14 @@ After downloading the package, we need to excecute:
 **Steps for installation:**
 1. In the system terminal, we go to the directory where the HarperDB installation package is located.
 
-    ``[gerald@geraldtop harperdb]$ ls``\
+    ``[geralduwu@geraldtop harperdb]$ ls``\
     ``harperdb-4.2.0.tgz``
 
 **Note:** is mandatory to have installed NodeJS for installing HarperDB.
 
 2. We start the installation:
 
-    ``[gerald@geraldtop harperdb]$ npm install -g harperdb-4.2.0.tgz``
+    ``[geralduwu@geraldtop harperdb]$ npm install -g harperdb-4.2.0.tgz``
 
 ![Installation-process](./images/installation.png)
 
