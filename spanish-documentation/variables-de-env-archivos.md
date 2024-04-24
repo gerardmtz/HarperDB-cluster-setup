@@ -1,5 +1,3 @@
-Por supuesto, aquí está la traducción al español del texto que proporcionaste, manteniendo la sintaxis en Markdown:
-
 # Archivos de configuración y variables de entorno
 
 HarperDB se configura a través de un archivo **YAML** llamado **harperdb-config.yaml** ubicado en el directorio raíz de HarperDB; por defecto, este es un directorio llamado **hdb** ubicado en el directorio home del usuario actual.
