@@ -1,4 +1,4 @@
-# Installing requirements
+# Installation requirements
 
 Installation is usually very simple and just takes a few steps, but we could try different options.
 
